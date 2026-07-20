@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# LaTeX
+*.aux
+*.dvi
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+*.fdb_latexmk
+*.fls
+*.blg
+*.bbl
+*.run.xml
+*.bcf
+
+# Prevent committing files containing personal information
+*05251546*
+*ver1*
+*ver2*
+
+# Allow only public versions of PDFs
+!*公開版.pdf
